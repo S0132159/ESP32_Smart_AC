@@ -1,4 +1,4 @@
-<img width="12358" height="291" alt="image" src="https://github.com/user-attachments/assets/aa070708-20c5-4f24-8818-bbe238d31efd" /><img width="12026" height="291" alt="image" src="https://github.com/user-attachments/assets/59cc4dfd-fa15-461f-aa39-f0921b5d717c" /># ESP32_Smart_AC
+# ESP32_Smart_AC
 #中文簡介
 
 ##Ｉ.Introduction
