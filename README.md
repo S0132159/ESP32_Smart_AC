@@ -43,9 +43,9 @@ We hope to create a **simpler way to use smart home appliances**, without requir
 
 # Special Thank
 
-## 1.ESPAsyncWebServer
+## 1. https://github.com/mathieucarbou/ESPAsyncWebServer
 
-  https://github.com/mathieucarbou/ESPAsyncWebServer
+## 2. https://github.com/earlephilhower/arduino-littlefs-upload
 
 
 
