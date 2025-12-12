@@ -41,9 +41,9 @@ We hope to create a **simpler way to use smart home appliances**, without requir
 
 1. ESP32 的開發版程式請使用2.0.17
 
-#Special Thank
+# Special Thank
 
-##1.ESPAsyncWebServer
+## 1.ESPAsyncWebServer
 
   https://github.com/mathieucarbou/ESPAsyncWebServer
 
