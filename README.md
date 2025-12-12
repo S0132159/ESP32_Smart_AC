@@ -37,6 +37,10 @@ Use ESP32 for control AC and receive monitor signal, also for connecting **tempe
 
 We hope to create a **simpler way to use smart home appliances**, without requiring users to purchase expensive models or spend time learning how to use them, allowing **AI to assist users seamlessly in the background**.
 
+# 布署時的注意事項
+
+1. ESP32 的開發版程式請使用2.0.17
+
 
 
 
