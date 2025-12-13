@@ -1,3 +1,8 @@
+//Nano_IRreceiver 1.0
+//可輸出 hash
+//無法辨識protocol
+
+
 #include <Arduino.h>
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
